@@ -5,7 +5,7 @@
   <name>Minecraft - SureFooting</name>
   <groupId>com.nohupgaming.minecraft</groupId>
   <artifactId>SureFooting</artifactId>
-  <version>1.0</version>
+  <version>1.2</version>
   <packaging>jar</packaging>  
 
   <dependencies>
