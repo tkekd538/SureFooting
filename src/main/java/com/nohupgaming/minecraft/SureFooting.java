@@ -91,7 +91,7 @@ public class SureFooting extends JavaPlugin
     
     public void addBlocks(Player p, List<Block> b)
     {
-        _blocks.remove(p);
+        clearBlocks(p);
         _blocks.put(p, b);
     }
     

@@ -1,6 +1,6 @@
 name: SureFooting
 main: com.nohupgaming.minecraft.SureFooting
-version: 1.1
+version: 1.2
 description: While active, safely walk on air
 author: Nohup
 commands:
@@ -8,5 +8,6 @@ commands:
     description: Toggle surefeet status
     usage: /<command>
 changelog:
+  - v1.2  Corrected issue around block collision
   - v1.1  Added support to move platform down when looking down
   - v1.0  Initial release  

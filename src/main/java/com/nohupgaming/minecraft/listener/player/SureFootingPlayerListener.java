@@ -62,10 +62,6 @@ public class SureFootingPlayerListener extends PlayerListener
                     b.setType(Material.GLASS);
                     built.add(b);
                 } 
-                else 
-                {
-                    platform.remove(b);
-                }
             }
             
             _plugin.addBlocks(p, built);
